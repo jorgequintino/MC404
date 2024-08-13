@@ -1,3 +1,0 @@
-/home/user/Documentos/Unicamp/04 - Organização Básica Computadores L. Montagem/lab1-b/cmake-build-debug/CMakeFiles/lab1_b.dir
-/home/user/Documentos/Unicamp/04 - Organização Básica Computadores L. Montagem/lab1-b/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/Documentos/Unicamp/04 - Organização Básica Computadores L. Montagem/lab1-b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
